@@ -1,3 +1,6 @@
+family: 
+  child:  
+    name: qqq
 
 spring: 
   application: 
