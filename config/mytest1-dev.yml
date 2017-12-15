@@ -1,6 +1,8 @@
 family: 
   child:  
     name: qqq
+server: 
+   port: 8887
 
 spring: 
   application: 
