@@ -1,12 +1,13 @@
 
-spring:
+spring: 
+  application: 
+    name: test
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/test
     username: root
     password: 
-  application:  
-    name:  test
+
     
 eureka: 
   client: 
