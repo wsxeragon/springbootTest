@@ -4,7 +4,7 @@ git checkout test 切换到test分支
 git add test.txt 添加文件到本地库
 git rm hello.txt 提交删除操作
 git checkout -- hello.txt 还原hello.txt到最后一次add或commit状态
-git commit -m "s..." 提交本地库,内容不能为空
+git commit -m "s..." 提交本地库,全空格也不行
 git push -u origin test 将本地库提交到远程仓库的test分支下(本地的分支必须和远程的相同，无法将本地test分支的内容push到远程master分支中)
 git merge test 将test合并到master 必须在master分支下执行
 git branch -d test 删除test 分支
