@@ -1,0 +1,37 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps",
+      "type": "com.wsx.springbootTest.domain.MyProps"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps.array-props",
+      "type": "java.lang.String[]"
+    },
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps.list-prop1",
+      "type": "java.util.List<java.util.Map<java.lang.String,java.lang.String>>"
+    },
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps.list-prop2",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps.map-props",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    },
+    {
+      "sourceType": "com.wsx.springbootTest.domain.MyProps",
+      "name": "myProps.simple-prop",
+      "type": "java.lang.String"
+    }
+  ]
+}
